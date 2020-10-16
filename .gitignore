@@ -1,0 +1,11 @@
+.DS_Store
+.cache
+.ijwb*
+.mypy_cache
+.vscode
+__pycache__
+.idea
+*.code-workspace
+*.iml
+*.swp
+env/
